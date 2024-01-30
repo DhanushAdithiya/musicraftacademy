@@ -1,0 +1,108 @@
+[
+  {
+    "course": "piano",
+    "course_name": "Instrument: Piano",
+    "details": "piano involves covering a range of musical and technical aspects. Music rudiments Finger independence exercise Posture Approach towards sight reading  Ear training Music analysis Practice stratergies",
+    "outcomes": "Learning the piano enhances cognitive skills, fosters discipline, and provides a lifelong source of creative expression and emotional fulfillment.",
+    "topics": "Posture\nfinger independence exercises\nFinger arpeggio exercise\nSight reading\nIntroduction to different eras\nExploring classical & Jazz",
+    "img": "https://i.imgur.com/Ib2TAdh.jpg"
+  },
+  {
+    "course": "keyboard",
+    "course_name": "Instrument: Keyboard",
+    "details": "keyboard involves covering various musical and technical aspects  Keyboard technique Rhythm and timings Music repetoire practice strateergies",
+    "outcomes": "develops musical proficiency, fosters creativity, and provides a versatile skillset for playing various genres and styles. It also offers cognitive benefits and a source of lifelong enjoyment.",
+    "topics": "Keyboard posture\nSight reading\nInstrument - tone setup\nFinger numbering\nTone rhythm selection",
+    "img": "https://i.imgur.com/83RtQ4L.jpg"
+  },
+  {
+    "course": "guitar",
+    "course_name": "Instrument: Guitar",
+
+    "details": "acoustic guitar involves covering a range of fundamental skills and knowledge  Guitar anatomy Tuning picking techniques Fretboard technique sight reading guitar tablature Rhythm and timing Understanding guitar techniques ",
+    "outcomes": "cultivates musical proficiency, enhances finger dexterity, and fosters creativity through chord progressions and improvisation. It builds stage presence, allowing for dynamic performances with techniques like strumming, fingerpicking, and bending, providing a versatile skillset for various musical genres. The experience offers a combination of cognitive benefits, emotional expression, and the joy of performing live music.",
+    "topics": "Guitar tuning\nInstrument knowledge\nFretboard exercise\nSight reading\nScale shapes\nChords",
+    "img": "https://i.imgur.com/VklZLuw.jpg"
+  },
+  {
+    "course": "eguitar",
+    "course_name": "Instrument: Electric Guitar",
+
+    "details": "Electric guitar set-up Amplifier Fretboard exercise Power chords Scales Riffs &Melodies Effect pedals Alternate and sweep picking",
+    "outcomes": "Electric guitar improves musicianship by fostering technical mastery, artistic expression, and the capacity to produce a variety of tones. Dynamic solos, bends, and effects are shown in electric guitar performances, which add to an exciting and adaptable stage presence in a variety of musical genres.",
+    "topics": "Guitar tuning\nInstrument knowledge\nFretboard exercise\nScale shapes\nTypes of picking\nPopular Riffs",
+    "img": "https://i.imgur.com/yRXY65w.jpg"
+  },
+  {
+    "course": "bguitar",
+    "course_name": "Instrument: Bass Guitar",
+
+    "details": "Bass guitar componenets Bass technique Rhythmic foundation Walking basslines Groove and timing Scales & arpeggios Amplification and tone Bass line construction",
+    "outcomes": "The development of a strong sense of rhythm, groove, and harmonic foundation by the bass guitar enhances the overall cohesiveness of a musical group. Performances of the bass guitar highlight the instrument's vital role in precisely and stylishly sculpting the musical environment as well as its deep, resonant tones and inventive basslines.",
+    "topics": "Instrument knowledge\nFretboard exercise\nScale shapes\nChords pattern\nEar training\nHammer-slap technique",
+    "img": "https://i.imgur.com/rWXyniT.jpg"
+  },
+  {
+    "course": "drums",
+    "course_name": "Instrument: Drums",
+
+    "details": "drums involves covering a variety of techniques, coordination skills, musical concepts, and rhythm fundamentals.   Drum kit introduction Grip techniques Rudiments Rhythm training Basic drumming Independence exercise Sight reading notation Styles & genres Advanced techniques Understanding song structure ",
+    "outcomes": "Drums hones rhythmic precision, coordination, and dynamic control, fostering a strong sense of timing and musicality. Drumming performances showcase expressive drum patterns, fills, and beats, contributing to the rhythmic foundation of a musical ensemble with an emphasis on stage presence and energy.",
+    "topics": "Drum elements\nRight grip\nstick control\nrudiments\nDrum notation reading\nDifferent grove\nAdvanced drumming techniques",
+    "img": "https://i.imgur.com/l9xVDbR.jpg"
+  },
+  {
+    "course": "ukulele",
+    "course_name": "Instrument: Ukulele",
+
+    "details": "ukulele involves covering various playing techniques, chords, strumming patterns, and musical concepts.  Introduction towards instrument Tunings Basic chords Strumming techniques chord progression song repetoire Strumming varioations Understanding song structure Ukulele techniques Performance skills",
+    "outcomes": " ukulele brings joy through its easy playability and versatility, fostering creativity and providing a portable, accessible entry into the world of music. It enhances rhythmic skills, chord knowledge, and offers a unique platform for self-expression, making it an ideal instrument for both beginners and experienced musicians.",
+    "topics": "Instrument knowledge\nIntroduction to chords\nChord progression\nVarious strumming patterms\nRepetoire playing",
+    "img": "https://i.imgur.com/jB2e9i6.jpg"
+  },
+  {
+    "course": "western_vocals",
+    "course_name": "Vocals: Western Vocals",
+
+    "details": "Western vocals involves a combination of technical, theoretical, and expressive elements  Breath control and support Pitch traning/ ear training Vocal warmups vocal range Tone quality Expression and dynamics Song interpretation Stage presence Microphone technique Vocal health ",
+    "outcomes": "western vocals develops vocal control, expressive interpretation, and harmonization skills,  contributing to dynamic stage performances with techniques like vibrato and falsetto. It enhances musicianship, fosters stage presence through microphone technique, and offers the joy of connecting with audiences through diverse vocal styles and emotive delivery. The experience provides cognitive benefits, emotional expression, and a foundation for versatile musical exploration.",
+    "topics": "Pitch/ear training\nintroduction to vocal warmups\nVocal technique\nObservation & listening skill towards repetoire\nVocal register \nVocal anatomy\nPractice routine\nVocal health",
+    "img": "https://i.imgur.com/CdLZIJS.jpg"
+  },
+  {
+    "course": "violin",
+    "course_name": "Instrument: Western Violin",
+
+    "details": "Violin basics Bowing technique Left hand technique Violin posture string crossing Reading sheet music Rhythmic accuracy Bow control and articulation Ornamentation and trill performance skills",
+    "outcomes": "Western violin allows for a more expressive and varied musical journey by refining bowing technique, intonation,  and expressive phrasing. The violin is a key instrument in both classical and modern genres, captivating audiences with its melodic richness, complex dynamics, and capacity to elicit a wide range of emotions.",
+    "topics": "Introduction towards instruments\nPosture\nBowing technique\nFinger placement\nAdvanced bowing technique\nOrchestral performance",
+    "img": "https://i.imgur.com/37JpxGQ.jpg"
+  },
+  {
+    "course": "wind",
+    "course_name": "Instrument: Wind Instruments",
+
+    "details": "Trumpet basic Embouchure Development Breath control Tone production Range development Reading music & transposition Rhythmic accuracy Double and triple tounguing Ensemble playing Perfromance skills",
+    "outcomes": "Playing wind instruments develops musical expression, breath control, and embouchure technique, and it also strengthens the bond between the performer and their instrument. Performances on wind instruments provide a rich and lively musical experience by showcasing adaptability, melodic articulation, and the capacity to express a wide range of emotions.",
+    "topics": "Assembling instrument\nRight posture\nRight grip\nBlwoing the instrument\nFinger placements\nSight reading\nScale-Arpeggios\nPerfromance",
+    "img": "https://i.imgur.com/d8tNrI4.jpg"
+  },
+  {
+    "course": "tabla",
+    "course_name": "Instrument: Tabla",
+
+    "details": "Hand positions Strokes Notations Kaidas & Palta Theka Tala system Dynamic control Historic and cultural Context",
+    "outcomes": "Tabla contributes dynamic control and intricate rhythms, providing a distinct percussion viewpoint that enhances the variety of Western music compositions and collaborations. Proficiency in tabla techniques contributes a rhythmic depth that promotes intercultural musical exploration and amplifies the international synthesis of traditional and modern genres.",
+    "topics": "Hand position\nstrokes\ntuning the instrument\nKaidas \nPalta\nTala system",
+    "img": "https://i.imgur.com/I4H0wrm.jpg"
+  },
+  {
+    "course": "music_performance",
+    "course_name": "Performance Skill: Music Performance",
+
+    "details": "Tone production Repetoire selection Music theory Expressive playing Stage presence Performance anxiety management Concert etiquite ",
+    "outcomes": "The act of performing music improves group abilities, expressive interpretation, and stage confidence, giving students a flexible toolkit for engaging and powerful live performances in a variety of musical genres. Their total musical experience is eventually enhanced by this training, which not only improves their technical proficiency but also instills discipline and fosters a strong sense of musicality and audience connection.",
+    "topics": "Right approach towards practice\nRehearsal technoqie\nStage presence\nSolo/Band performance\nStage appearance\nrevising the repetoire",
+    "img": "https://i.imgur.com/P0SnD4V.jpg"
+  }
+]

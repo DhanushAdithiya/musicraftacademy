@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Course Page</title>
+    <link type="text/css" rel="stylesheet" href="../public/style.css" />
+  </head>
+  <body>
+    <nav class="navigation">
+      <svg
+        class="hamburger"
+        xmlns="http://www.w3.org/2000/svg"
+        x="0px"
+        y="0px"
+        width="100"
+        height="100"
+        viewBox="0 0 50 50"
+      >
+        <path
+          d="M 0 9 L 0 11 L 50 11 L 50 9 Z M 0 24 L 0 26 L 50 26 L 50 24 Z M 0 39 L 0 41 L 50 41 L 50 39 Z"
+        ></path>
+      </svg>
+      <h3>TMSBUJIRE LOGO</h3>
+    </nav>
+
+    <div class="hamburger-menu hidden">
+      <svg
+        class="close"
+        xmlns="http://www.w3.org/2000/svg"
+        x="0px"
+        y="0px"
+        width="100"
+        height="100"
+        viewBox="0 0 50 50"
+      >
+        <path
+          d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z"
+        ></path>
+      </svg>
+      <div class="anchors">
+        <a href="/">HOME</a>
+        <a href="#achor-courses">What we offer</a>
+        <a href="#anchor-why-us">Why Us?</a>
+        <a href="#anchor-about">About Us</a>
+        <a href="#hero">Contact Us</a>
+      </div>
+    </div>
+
+    <div class="course-hero">
+      <h1 class="course-hero-heading"><%= course.course_name %></h1>
+    </div>
+
+    <div class="about-course">
+      <img src="<%= course.img %>" alt="" />
+      <div class="course-content">
+        <h3 class="section-heading">About the cousre</h3>
+        <h5><%= course.outcomes %></h5>
+        <h5><%= course.details %></h5>
+        <a href="/"><button>Join</button></a>
+      </div>
+    </div>
+
+    <div class="topics-covered">
+      <h3 class="section-heading">Topics Covered</h3>
+      <ul>
+        <% courseTopics.forEach(result=>{ %>
+        <li><%= result %></li>
+        <% }); %>
+      </ul>
+    </div>
+
+    <footer>
+      <div class="footer1">
+        <h3>TMSBUJIRE LOGO</h3>
+        <h5>Address</h5>
+        <p>
+          shop 43, 1st floor, Sai ram central, Ujire, Dakshina Kannada 574240
+        </p>
+        <p>Tel: 9110805653 / 7204731520 <br />Mail:</p>
+      </div>
+
+      <div class="footer2">
+        <a href="/">HOME</a>
+        <a href="#achor-courses">What we offer</a>
+        <a href="#anchor-why-us">Why Us?</a>
+        <a href="#anchor-about">About Us</a>
+        <a href="#hero">Contact Us</a>
+      </div>
+      <div class="footer3 hero-contact">
+        <h3>We will get in touch with you</h3>
+        <div class="hero-contact-input">
+          <div class="hero-contact-name">
+            <h5>Name</h5>
+            <input id="input-name" type="text" name="name" />
+            <p class="hidden name-error">Name is not provided</p>
+          </div>
+          <div class="hero-contact-email">
+            <h5>Email</h5>
+            <input id="input-email" type="email" name="name" />
+            <p class="hidden email-error">Please enter a valid email id</p>
+          </div>
+          <div class="hero-contact-phone">
+            <h5>Phone</h5>
+            <input id="input-number" type="number" name="name" />
+            <p class="hidden phone-error">Please enter a valid phone number</p>
+          </div>
+        </div>
+        <button type="submit" id="btn-callback">Get a callback</button>
+        <h5 class="success hidden">
+          Sucessfully submitted! We will get back to you shortly
+        </h5>
+        <h5 class="failed hidden">Couldn't submit, please try again.</h5>
+      </div>
+    </footer>
+
+    <script defer src="../public/main.js"></script>
+  </body>
+</html>
