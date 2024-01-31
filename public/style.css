@@ -336,16 +336,17 @@ nav {
 .about-us-images {
   width: 35%;
   padding: 2em;
-  background: rgb(247, 135, 112);
+}
+
+.about-us-images img {
+  width: 100%;
+     background: rgb(247, 135, 112);
   background: linear-gradient(
     90deg,
     rgba(247, 135, 112, 1) 0%,
     rgba(255, 96, 123, 1) 100%
   );
-}
-
-.about-us-images img {
-  width: 100%;
+   padding: 1em;
 }
 
 footer {
