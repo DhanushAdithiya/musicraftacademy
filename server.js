@@ -45,7 +45,7 @@ app.post("/mail", async (req, res) => {
     const details = {
       from: `${process.env.AUTH_EMAIL}`,
       to: `${process.env.REC_EMAIL}`,
-      subject: `Password Reset Request`,
+      subject: `Someone is intersted to join Musicraft Academy`,
       text: `This person was interested to join here are the details
         ${req.body.name}
         ${req.body.email}
